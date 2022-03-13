@@ -1,6 +1,6 @@
 # Maths_Calculator 
 
-In this website i created a maths calculator which performs all operations on numbers
+In this website i created a maths calculator which performs all operations on numbers.
 What is the implementation?
   1) It takes the input string contatining operands and operators of Infix Expression format.
   2) It will convert Infix expression into Prefix expression (because we can perform calculations more easier on prefix than on infix)
